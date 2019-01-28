@@ -1,0 +1,1 @@
+@py.exe C:\Users\ogi-8\Desktop\PythonProjects\Magic8Ball\magic8Ball.py %*
